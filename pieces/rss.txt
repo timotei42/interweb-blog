@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Timotei42's blog</title>
+  <link>https://timotei42.github.io/interweb-blog/</link>
+  <description>The RSS feed for my blog</description>
+  <!--NEXT_ITEM-->
+  <item>
+    <title>RSS Tutorial</title>
+    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+    <description>New RSS tutorial on W3Schools</description>
+  </item>
+</channel>
+
+</rss>

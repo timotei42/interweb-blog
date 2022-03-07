@@ -1,0 +1,8 @@
+We are UP!
+7.3.2022
+
+This is my first article on my blog.This site is generated using my script at https://github.com/timotei42/interweb-blog.Check it out!
+
+Also subscribe to my <a href="https://timotei42.github.io/interweb-blog/rss.xml">RSS</a> feed and my <a href="https://www.youtube.com/channel/UCx4GQYOlrbJ2U0LiThHFtUg">YouTube channel</a>.
+
+WE'RE UP!

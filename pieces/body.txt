@@ -1,0 +1,23 @@
+<body>
+    <header>
+        <h1>timotei's blog</h1>
+    </header>
+    <nav>
+    <ul>
+    <a href="../../index.html"><li>Index</li></a>
+    <a href="../../blog.html"><li>Articles</li></a>
+    <a href="../../rss.xml"><li>Rss</li></a>
+    </ul>
+    </nav>
+        <main>
+
+       
+
+        <h1> $TITLE </h1>
+        <h2>$DATE</h2>
+        $CONTENT
+        </main>
+
+        <footer>generated on $HOUR</footer>
+
+</body>

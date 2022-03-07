@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+<channel>
+  <title>Timotei42's blog</title>
+  <link>https://timotei42.github.io/interweb-blog/</link>
+  <description>The RSS feed for my blog</description>
+  <!--NEXT_ITEM--> 
+<item> 
+<title>We_are_UP!</title> 
+<pubDate>Mon, 07 Mar 2022 10:29:23  -0400</pubDate> 
+<description><![CDATA[ 
+<p>This is my first article on my blog.This site is generated using my script at https://github.com/timotei42/interweb-blog.Check it out!</p><p>Also subscribe to my <a href="https://timotei42.github.io/interweb-blog/rss.xml">RSS</a> feed and my <a href="https://www.youtube.com/channel/UCx4GQYOlrbJ2U0LiThHFtUg">YouTube channel</a>.</p><p>WE'RE UP!</p>]]></description> 
+</item> 
+ 
+
+</channel>
+
+</rss>
